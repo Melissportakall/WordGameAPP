@@ -312,4 +312,5 @@ oyunun oynaması için sunucu sisteminin kurulması gereklidir.
 5.Oyun Sonucunun belirlenmesi ve Puan hesaplanması
 6. Rapor
 
-![Uygulamanın ana ekranına ait bir görüntü](demo.png)
+<img src="images/demo.png" width="200">
+
