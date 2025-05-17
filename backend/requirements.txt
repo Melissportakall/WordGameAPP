@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+Werkzeug
+Flask-SQLAlchemy
+PyMySQL
+Flask-SocketIO
+eventlet
